@@ -40,7 +40,7 @@ composición del hogar" - Departamento Administrativo Nacional de Estadística (
 
 ## Informe final
 
-[Link al PDF]
+https://uniandes-my.sharepoint.com/:w:/g/personal/d_galeanoa2_uniandes_edu_co/IQDDYA18ytJCSqRD5-bBH_uiARpix5aEb6KQdosz1Ih4vPQ?e=40NW7H
 
 ## Equipo
 
