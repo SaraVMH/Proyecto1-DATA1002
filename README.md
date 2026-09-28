@@ -1,5 +1,5 @@
 # Proyecto1-DATA1002
-# Análisis de bienestar en la población adulta de Bogotá D.C.
+# Análisis de bienestar en la población adulta
 
 Proyecto 1 - DATA-1002 Aplicaciones en Ciencia de Datos
 Universidad de los Andes
